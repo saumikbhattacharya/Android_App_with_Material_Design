@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LearningAppOne</string>
+    <string name="action_settings">Settings</string>
+    <string name="findmoviebyname">By Name</string>
+    <string name="findmovie">Find Movie</string>
+    <string name="findmoviebyrelsdate">By Release Year</string>
+    <string name="findmoviebyrating">By Rating</string>
+    <string name="query_button">Query</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_display_movie">Movies</string>
+    <string name="rel_date">Release Date:</string>
+    <string name="vote">Avg Vote:</string>
+    <string name="title_activity_display_movie_with_name">Movies</string>
+</resources>
